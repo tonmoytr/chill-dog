@@ -2781,7 +2781,7 @@ h2 {
   overflow: hidden;
   position: relative;
   z-index: 10;
-  background: #48dbfb;
+  background: #71a960;
   border-top: 2px solid rgba(0, 0, 0, 0.4);
   font-family: "Chill";
 }
@@ -2874,9 +2874,11 @@ h2 {
   gap: 30px;
   justify-content: space-evenly;
   align-items: center;
+  margin: 30px 0;
 }
 
 .memes img {
+    width: 450px;
   max-width: 90%;
   border-radius: 12px;
 }
